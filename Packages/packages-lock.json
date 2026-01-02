@@ -7,7 +7,7 @@
       "dependencies": {
         "com.unity.editorcoroutines": "1.0.1"
       },
-      "hash": "8a249eb7444b382ee3c8bdd6693532537c028b49"
+      "hash": "d4c7229e78f7e05ba6ff64516859e5818f22db0f"
     },
     "com.unity.burst": {
       "version": "1.8.24",
