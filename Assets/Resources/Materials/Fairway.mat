@@ -105,7 +105,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OuterBlendTexture:
-        m_Texture: {fileID: 2800000, guid: 01eec46ef45021c4b89d622a08b401d6, type: 3}
+        m_Texture: {fileID: 2800000, guid: 7bf1d73c61ad032448068e2d84ca9642, type: 3}
         m_Scale: {x: 0.3, y: 0.3}
         m_Offset: {x: 0, y: 0}
     - _SpecularColorMap:
